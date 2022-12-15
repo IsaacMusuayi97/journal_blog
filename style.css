@@ -49,16 +49,46 @@ header {
 }
 
 .section1-title {
-  font-size: 40px;
-  margin-bottom: 12px;
-  margin-top: 12px;
+  font-size: 2.5rem;
+  margin-bottom: 0.3em;
+  margin-top: 0.3em;
 }
 
 .date {
-  font-size: 16px;
+  font-size: 1rem;
 }
 
 .paragraph {
-  font-size: 16px;
+  font-size: 1rem;
   width: 578px;
+}
+
+.section2 {
+    margin: 2.1875em 1.875em;
+    margin-left: 2.8125em;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card {
+    margin-bottom: 2.375em;
+    margin-right: 0.625em;
+}
+
+.card  img{
+  margin-bottom: 0.625em;
+}
+
+.card div {
+    margin-bottom: 0.7857em;
+    font-size: 0.875rem;
+}
+
+.card h1 {
+    font-size: 1.5rem;
+}
+
+.card p {
+    font-size: 1rem;
+    width: 315px;
 }
